@@ -1,14 +1,12 @@
-Update
+Time to meditate on the Koans!
 ======
 
-> If you like JavaScript Koans you might enjoy my newer, more user friendly, project [Didacto: JavaScript](http://javascript.didacto.net/)
+A great way to re-introduce myself to a test-driven, check out a learning resouce, and make friends.
+The assertions, and therefore exercise answers are in the /topics directory.
 
-JavaScript Koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence. 
+Thanks *https://github.com/liammclennan/JavaScript-Koans*, it was fun and quick.
 
-The inspiration for this project comes from the Edgecase Ruby Koans and the book 'Javascript: The Good Parts'.
+JavaScript Koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence.   
 
-Open the file jskoans.htm in your favourite browser and make the tests pass.
 
-The koans use the [Qunit](http://qunitjs.com/) test syntax and test runner. 
 
-Get started with Ryan Anklam's [Learn JavaScript completely On the Cloud With the JavaScript Koans and Cloud9 IDE](http://blog.bittersweetryan.com/2011/08/learn-some-javascript-completely-on.html)
